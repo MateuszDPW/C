@@ -83,8 +83,6 @@ int main()
     short int b[3] = {4,5,6};
     short int c[3] = {7,8,9};
     
-    
-    
     /*int a[3] = {1,2,3};
     int x = 100;
     int b[3] = {4,5,6};
